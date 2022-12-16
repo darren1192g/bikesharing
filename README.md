@@ -1,6 +1,6 @@
 # Bike Sharing 
 
-[link to dashboard](LINK GOES HERE lhttps://public.tableau.com/views/BikeSharing_16702987766550/BikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[link to dashboard]( lhttps://public.tableau.com/views/BikeSharing_16702987766550/BikeSharing?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link )
 
 ## Provide a more in-depth analysis of the Citi Bike Trip data to see if it could be a good fit to roll out in Des Moines.
 
